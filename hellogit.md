@@ -4,6 +4,8 @@
 # hw/project description
 
 this is project is about.....
+yada2 
+and other stuff
 
 # How to compile 
 
